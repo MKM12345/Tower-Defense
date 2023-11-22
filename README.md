@@ -1,5 +1,6 @@
 # Tower Defense
 **WARNING: DO NOT DIRECTLY GIT CLONE THIS REPOSITORY SINCE IT'S CODE IS UNORGANISED AS I COULDN'T BE BOTHERED TO UPLOAD THE MASSIVE FILES AND ORGANISE. LINK AT BOTTOM TO DOWNLOAD PROPER SOURCE CODE.**
+
 Welcome to **Tower Defense**, one of my biggest projects to date! This fully functional tower defense game is written in *C#*, *Unity*, and *ShaderLab*.
 
 ## Features:
